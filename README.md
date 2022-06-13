@@ -11,3 +11,10 @@ npx electron-forge import
 # 打包(./out)
 npm run make
 ```
+<<<<<<< Updated upstream
+=======
+111111
+
+
+
+>>>>>>> Stashed changes
